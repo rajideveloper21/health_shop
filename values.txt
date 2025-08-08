@@ -1,0 +1,326 @@
+						Fruits in 1kg
+Apple
+	--130
+	--A good source of fiber, vitamin C, and antioxidants, which can support digestion, brain health, and weight management, while also potentially protecting against chronic diseases like cancer, heart disease.
+
+Banana
+	--50
+	--A good source of potassium, fiber, and vitamins, which can support heart health, digestion, and energy levels. 
+
+Orange
+	--120
+	--Boosting the immune system, aiding digestion, supporting heart health, and potentially reducing the risk of certain chronic diseases. 
+
+Mango
+	--100
+	-- Rich content of vitamins, minerals, and antioxidants, supporting everything from immunity and digestion to eye and skin health. 
+
+Grapes
+	--80
+	--Supporting heart health, boosting immunity, improving vision, and potentially aiding in weight management, due to their rich content of antioxidants, vitamins, and fiber. 
+
+Watermelon
+	--40
+	--Hydration, heart health support, and antioxidant protection, thanks to its high water content and nutrients like lycopene and vitamin C. 
+
+Pineapple
+	--140
+	--Boosting the immune system with its high vitamin C content, aiding digestion with bromelain, and providing antioxidants that combat inflammation and free radicals. 
+
+Strawberry
+	--400
+	--Rich in vitamin C and antioxidants, potentially improving heart health, managing blood sugar, and supporting a healthy gut. 
+
+Kiwi
+	--200
+	--Boosting immunity with its high vitamin C content, supporting digestive health with fiber, and potentially benefiting heart health and vision. 
+
+Papaya
+	--60
+	--Aiding digestion, boosting immunity, improving skin health, and potentially reducing the risk of certain diseases like heart disease and cancer, thanks to its rich source of vitamins, antioxidants, and fiber. 
+
+Pomegranate
+	--150
+	--Potential protection against heart disease, cancer, and inflammation, as well as support for brain function and digestive health. 
+
+Peach
+	--704
+	--Improved heart health, digestion, and skin health, due to their rich content of vitamins, minerals, and antioxidants. 
+
+Plum
+	--108
+	--Promoting digestive health, supporting heart health, boosting immunity, and providing antioxidants to protect against cell damage. 
+
+Pear
+	--78
+	-- A good source of fiber, antioxidants, and vitamins, which can promote gut health, heart health, and potentially reduce the risk of certain diseases like type 2 diabetes and cancer. 
+
+Apricot
+	--96
+	--Improved vision, digestive health, skin health, and heart health, due to their rich content of vitamins, antioxidants, and fiber. 
+
+Cherry
+	--56
+	--Rich in antioxidants, promoting heart health, aiding in muscle recovery and sleep, and potentially managing conditions like arthritis and gout. 
+
+Lemon
+	--46
+	--High vitamin C content and antioxidant properties, supporting immunity, digestion, and overall well-being.
+
+Lime
+	--100
+	--High vitamin C content and antioxidant properties, potentially boosting immunity, improving heart health, and aiding in digestion. 
+
+Coconut
+	--66
+	--A source of healthy fats, fiber, and essential nutrients, supporting digestive health, heart health, and potentially aiding in weight management and blood sugar control. 
+
+Avocado
+	--562
+	--Aiding in weight loss, improving digestive health, potentially reducing the risk of chronic diseases like heart disease and cancer, and supporting overall well-being.
+
+Blackberries
+	--1060
+	--Boosting immunity, improving digestion, and supporting heart health. 
+
+Blueberries
+	--1500
+	--Improved brain function, reduced risk of heart disease, and potential protection against certain types of cancer.
+
+Raspberries
+	--1100
+	--Provide potassium, essential to heart function, and proven to lower blood pressure. The omega-3 fatty acids in raspberries can help prevent stroke and heart disease.
+
+Figs
+	--750
+	--Supporting digestive health due to their high fiber content, acting as a natural laxative, and potentially aiding in weight management. 
+
+Durian
+	--1154
+	--Improved cardiovascular health, blood sugar regulation, bone strength, and mental well-being
+
+
+
+
+
+
+						Herbs in 1kg
+Basil: 
+	--350
+	--Improved digestion, reduced stress, and strengthened immunity.
+
+Mint
+	--571
+	--Improved digestion, reduced stress and anxiety, and potential relief from respiratory issues.
+
+Thyme
+	--500
+	--Supporting respiratory health, boosting immunity, and potentially improving cardiovascular health. 
+
+Oregano
+	--570
+	--Fighting infections, improving digestion, and boosting mood. 
+
+Sage
+	--1430
+	--Boosting memory and cognitive function, combating skin aging, promoting hair growth, and aiding in weight loss. 
+
+Rosemary
+	--660
+	--Improved memory and cognitive function, reduced stress and anxiety, and potential benefits for skin health and hair growth. 
+
+Parsley
+	--700
+	--Aiding digestion, supporting heart health, strengthening bones, and potentially fighting cancer.
+
+Cilantro
+	--270
+	--Lower blood sugar, boost immunity, improve digestion, and even potentially detoxify the body. 
+
+Chives
+	--150
+	--Anti-inflammatory properties, support for immune function, and potential in preventing certain types of cancer. 
+
+Dill
+	--462
+	--Cholesterol reduction, diabetes management, period pain, and ease of labor and delivery.
+
+Chervil
+	--208
+	--Acting as a diuretic, digestive aid, and blood purifier.
+
+Bay Leaf
+	--400
+	--Improved digestion, respiratory health, and blood sugar control. 
+
+Lemongrass
+	--298
+	--Boosting immunity, aiding digestion, and potentially reducing inflammation.
+
+Peppermint
+	--310
+	--Aiding digestion, relieving headaches and migraines, and improving sleep
+
+Chamomile
+	--2004
+	--Improved sleep, digestion, and stress reduction.
+
+Lavender
+	--374
+	--Calming the nervous system, easing anxiety and depression, and promoting better sleep.
+
+Hyssop
+	--1500
+	--Potential relief from respiratory issues, digestive problems, and even some antimicrobial properties.
+
+Plantain
+	--404
+	--Including wound healing, reducing inflammation, and potentially aiding in respiratory issues.
+
+Holy Basil (Tulsi)Hyssop
+	--160
+	--Hyssop is spicy, slightly bitter and reminiscent of a blend of mint, sage and oregano
+
+Angelica
+	--1500
+	--Anti-inflammatory, antimicrobial, and anticancer properties. 
+
+Anise
+	--1100
+	--Improving digestion, supporting respiratory health, and potentially aiding in hormonal balance. 
+
+Asafoetida
+	--2000
+	--Relieve indigestion, bloating, and flatulence, and may also help with respiratory issues like asthma and bronchitis.
+
+Black Cumin
+	--490
+	--Anti-inflammatory and antioxidant properties, digestive support, immunity boost, and potential help with weight management and respiratory health. 
+
+Kasuri Methi
+	--548
+	--Aiding digestion, regulating blood sugar levels, boosting milk production, and promoting healthy skin.
+
+Gali
+	--850
+	--Including boosting immunity, improving cardiovascular health, and potentially aiding in weight loss.
+
+
+
+
+						Hospital address & treatment
+
+Apollo Hospital
+	--cardiology
+	-- 21, Greams Lane, Off Greams Road Chennai – 600006
+
+Fortis Malar Hospital 
+	--Cardiolody
+	--52, 1st Main Rd, Gandhi Nagar, Adyar, Chennai, Tamil Nadu 600020.
+
+MIOT International
+	--Orthopaedics
+	--4/112, Mount Poonamallee Road, Manapakkam, Chennai - 600 089, Tamil Nadu.
+
+Shri Ramachandra Medical Centre
+	--Neurological
+	--No.1, Ramachandra Nagar, Sri Ramachandra Nagar, Chennai, Tamil Nadu 600116.
+  
+Christian Medical College
+	--hematology (or) cancer
+	--Ida Scudder Road, Vellore – 632004, Tamil Nadu.
+
+Kauvery Hospital
+	--Cardiology
+	--No.199, Luz Church Road, Mylapore, Chennai Tamilnadu.
+
+Billroth Hospitals
+	--Gastroenterology
+	-- No 43, Lakshmi Talkies Road, Shenoy Nagar, Chennai - 600030.
+
+PSG Hospitals
+	--Urology (or) Andrology
+	--Avinashi Rd, Peelamedu, Coimbatore, Tamil Nadu 641004.
+
+G. Kuppuswamy Naidu Memorial (GKNM) Hospital
+	--Cancer
+	--P.B. No. 6327, Nethaji Road, Pappanaickenpalayam, Coimbatore – 641 037, Tamil Nadu.
+
+Vijaya Hospital
+	--Ayurveda (or) oncology
+	--No. 434, NSK Salai, Vadapalani, Chennai - 600026.
+
+AR Hospital
+	--Orthopaedics (or) Trauma Surgery
+	--609, KK Nagar Main Rd, Near District Court, Madurai, Tamil Nadu 625020.
+
+A.G. Eye Hospital
+	--cataract (or) Glaucoma
+	--No.6, Officers Colony Road, Puthur, Tennur, Tiruchirappalli, Tamil Nadu 620017.
+
+Aishwaryam Specialty Hospital
+	--Gynecology (or) Obstetrics
+	--114/1, Bangalore Bypass Road, Near Nedunchalai Nagar, Salem - 636 005, Tamil Nadu.
+
+Sri Narayani Hospital & Research Centre
+	--cardiology (or) Gastroenterology
+	--Azad Rd, Thirumalaikodi, Vellore, Tamil Nadu 632055.
+
+Adiparasakthi Hospital
+	--super-specialty care (or) critical care
+	--Melmaruvathur, Kancheepuram District, Tamilnadu, India 603319 ·
+
+KMCH Speciality Hospital
+	--pulmonology (or) dentistry
+	--16 GH, Palaniappa St, Nggo Colony, Erode, Tamil Nadu 638009
+
+AKA Hospital 
+	--vascular (or) aesthetics,
+	--Heera Complex, Nagercoil, Tamil Nadu, 629003
+
+VVR Hospital
+	-- allopathy (or) thyroid 
+	--6th Cross Street, Arulananda Nagar, Thanjavur, Tamil Nadu, India.
+
+AVM Hospitals
+	--obstetrics (or) pediatrics
+	--135, Palayamkottai Rd, Toovipuram, Thoothukudi, Tamil Nadu 628003.
+
+Sugam Hospital
+	--Neurology (or) Urology
+	--B 10, 6th Cross Road, Arulananda Nagar East Extension, Thanjavur City, Thanjavur - 613001.
+
+Dharan Hospital
+	--oncology (or) orthopedics
+	--14, Seelanaickenpatti Byepass, Salem - 636201, Tamil Nadu, India.
+
+Ayesha Hospital
+	--Angioplasty & Stenting
+	--RM9M+RGG, Thillai Nagar East, Tennur, Tiruchirappalli, Tamil Nadu 620018
+
+Deepan Hospital
+	--RCT(Root Canal)
+	--No. 687, Trichy Rd, Opp. Alvernia Convent, Kongu Nagar, Kallimadai, Ramanathapuram, Coimbatore, Tamil Nadu 641045.
+
+Ganga Hospital
+	--orthopedics (or) trauma care
+	--313, Mettupalayam Rd, Saibaba Colony, Coimbatore, Tamil Nadu 641043.
+
+Velammal Hospital
+	--Neurology
+	-- Velammal Village, Madurai - Tuticorin, Airport-Mattuthavani Ring Rd, Chinthamani, Tamil Nadu 625009.
+
+Arun Hospital	
+	--Laparoscopic Hysterectomy
+	--185 - 186, Munichalai Rd, Nelpettai, Madurai, Tamil Nadu - 625001.
+
+Preethi Hospitals
+	--cardiology
+	--50, Melur Main Rd, Uthangudi, Tamil Nadu 625107
+
+Vega ENT Hospital
+	--Fibromyalgia
+	--Guru Govind Singh Road, 30, Cowley Brown Rd, Vincent Colony, R.S. Puram, Coimbatore, Tamil Nadu 641002
+
+
+
